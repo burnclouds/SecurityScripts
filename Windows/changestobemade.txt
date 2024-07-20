@@ -1,0 +1,47 @@
+EEK imma put this at the top cause im cool:
+	timon suggested screenshot ez hotkey for comp score, so yeet
+
+Changes that need to be made:
+
+	- Implement icacls somehow
+	- COOL THING: malware that have service display names as legit services
+	              figure out how to automate checking maybe or just check anyway
+	- add echo Done! all over the place
+	- files owned by unauthorized users all over the dang place
+		- dir /s /q /a-d /o-d /tc C:\
+	- Program archives/files ooof
+NMAP scanner
+Nikto scanner
+REFOG
+Spyrix
+Actual
+Free Key Logger (system32\MPK, ctrl+alt+shift+k to open, runrefog, rkf-8-9-2-3110)
+bitcomet
+speedbot
+teamspeak
+brutus password cracker (.bad, .bru, BrutusA2)
+advanced ip scanner
+angry ip scanner
+
+these tings use .txt and .xml for coolness
+
+NOTE:
+also setup files
+
+NOTES:
+
+network access: restrict clients allowed to make remote calls to SAM
+event log: view non-system default logs i guess?
+sysinternals choco install broke
+
+Post Qual1 Notes:
+
+Note: Unblock foreign, non-hetero programs
+
+referral returned from the server
+
+packet tracer shortened commands BAD
+
+plain text files cringe finding
+
+WinAudio error 1297
